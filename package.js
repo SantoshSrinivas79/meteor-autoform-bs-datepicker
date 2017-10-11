@@ -9,7 +9,7 @@ Package.onUse(function(api) {
   api.use('templating@1.0.0');
   api.use('blaze@2.0.0');
   api.use('underscore@1.0.0');
-  api.use('aldeed:autoform@6.0.0');
+  api.use('aldeed:autoform@6.2.0');
   api.addFiles([
     'autoform-bs-datepicker.html',
     'autoform-bs-datepicker.js'
